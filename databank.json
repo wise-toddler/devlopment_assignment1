@@ -1,0 +1,104 @@
+{
+    "questions" : [
+    {
+        "question": "What is the capital of France?",
+        "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Madrid"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Madrid"
+        ],
+        "answer": "Berlin"
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Madrid"
+        ],
+        "answer": "Madrid"
+    },
+    {
+        "question": "What is the capital of England?",
+        "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Madrid"
+        ],
+        "answer": "London"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+        ],
+        "answer": "Rome"
+    },
+    {
+        "question": "What is the capital of Portugal?",
+        "options": [
+        "Paris",
+        "Lisbon",
+        "Berlin",
+        "Madrid"
+        ],
+        "answer": "Lisbon"
+    },
+    {
+        "question": "What is the capital of Belgium?",
+        "options": [
+        "Paris",
+        "London",
+        "Brussels",
+        "Madrid"
+        ],
+        "answer": "Brussels"
+    },
+    {
+        "question": "What is the capital of Netherlands?",
+        "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Amsterdam"
+        ],
+        "answer": "Amsterdam"
+    },
+    {
+        "question": "What is the capital of Switzerland?",
+        "options": [
+        "Paris",
+        "London",
+        "Bern",
+        "Madrid"
+        ],
+        "answer": "Bern"
+    },
+    {
+        "question": "What is the capital of Sweden?",
+        "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Stockholm"
+        ],
+        "answer": "Stockholm"
+    }
+    ]
+}

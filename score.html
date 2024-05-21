@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>score page</title>
+</head>
+<body>
+    <!-- href = `score.html?score=${score}`; -->
+    <h1>Quiz Completed</h1>
+    <h2>Your score is: <span id="score">0</span></h2>
+    <!-- <button id="restart">Restart Quiz</button> -->
+    <script>
+        // read the score from the query string
+        const urlParams = new URLSearchParams(window.location.search);
+        const score = urlParams.get('score');
+        document.getElementById('score').innerText = score
+    </script>
+</body>
+</html>
